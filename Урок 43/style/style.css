@@ -1,0 +1,188 @@
+
+.container  {
+background: #181E34;
+color: white;
+padding-top: 30px;
+padding-bottom: 36px;
+font-family: Montserrat;
+align-items: center;
+}
+.cont {
+    display:flex ;
+}
+.img {
+    margin-left: 270px;
+}
+.nav {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin-left: 410px;
+    gap: 30px;
+}
+.button {
+    margin-left: 34px;
+    color: #2766AE;
+    background: white;
+    padding: 14px 30px;
+    border: white solid 1px;
+    border-radius: 100px;
+}
+.main {
+    display: flex;
+    color: white;
+}
+
+.head-text {
+    font-size: 40px;
+    padding-top: 120px;
+    position: absolute;
+    margin-left: 580px;
+    font-family: Montserrat;
+    font-weight: 600;
+}
+.head-text-block {
+    padding-top: 229px;
+    max-height: 72px;
+    margin-left: 270px;
+    position: absolute;
+    font-family: Montserrat;
+}
+.pone {
+    max-width: 420px;
+    line-height: 24px;
+}
+.ptwo {
+    margin-top: 15px;
+    max-width: 420px;
+    line-height: 24px;
+}
+.bluetext {
+    color: #01A2CB;
+    margin-left: 2px;
+    font-weight: bold;
+}
+.mainbutton {
+    position: absolute;
+    background: linear-gradient(180deg, #00A4CC 0%, #2766AE 100%);
+    color: white;
+    list-style: none;
+    margin-left: 850px;
+    margin-top: 248px;
+    padding: 18px 127px;
+    border: solid 1px #00A4CC;
+    border-radius: 100px;
+    font-family: Montserrat;
+}
+.mainbuttontwo {
+    position: absolute;
+    background: linear-gradient(95.22deg, #00A4CC 6.7%, #2766AE 91.35%);
+    color: white;
+    list-style: none;
+    margin-left: 850px;
+    margin-top: 310px;
+    padding: 18px 118px 18px 118px;
+    border: solid 1px #00A4CC;
+    border-radius: 100px;
+    display: flex;  
+    font-family: Montserrat;
+}
+.icon {
+    margin-left: 4px;
+}
+.block {
+    font-size: 40px;
+    margin-top: 110px;
+    text-align: center;
+    font-weight: 600;
+}
+.text {
+    margin-top: 15px;
+    line-height: 24px;
+    text-align: center;
+}
+.main-box {
+    display: inline-block;
+    margin-left: 245px;
+}
+.border-box {
+    max-width: 204px;
+    padding: 28px;
+    border: #197CB8 solid 2px;
+    background: #197CB8;
+    border-radius: 16px;
+    gap: 10px;
+    text-align: center;
+    display: inline-block;
+    margin-left: 25px;
+}
+.border-text {
+    font-size: 22px;
+    font-weight: 600;    
+}
+.border-disc {
+    line-height: 24px;  
+    padding-top: 10px;
+    text-align: center;
+}
+.block-line {
+    margin-top: 60px;
+}
+.block-line-two {
+    margin-top: 28px;
+}
+.main-block-two {
+    display: inline-block;
+    margin-left: 245px;
+}
+.button-bot {
+    list-style: none;
+    margin-top: 30px;
+    background: linear-gradient(180deg, #00A4CC 0%, #2766AE 100%);
+    padding: 18px 30px 18px 30px;
+    border-radius: 100px;
+    max-width: 436px;
+    margin-left: 502px;
+    text-align: center;
+}
+.border {
+    border: 1px solid #323952;
+    margin-top: 80px;
+}
+.lay {  
+    display: flex;
+    margin-top: 60px;
+}
+.p {
+    margin-top: 15px;
+}
+.layout {
+    max-width: 255px;
+    margin-left: 290px;
+    gap: 15px;
+    line-height: 24px;
+}
+.layout-two { 
+    margin-left: 197px;
+    gap: 10px;
+    list-style: none;
+}
+.layout-three {
+    margin-left: 117px;
+    list-style: none;
+}
+.menu {
+    margin-top: 40px;
+}
+.menu-one {
+    margin-top: 20px;
+}
+.menu-two {
+    margin-top: 40px;
+}
+.menu-three {
+    margin-top: 20px;
+}
+h2 {
+    font-size: 22px;
+}
