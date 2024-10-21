@@ -35,7 +35,7 @@ body {
 }
 
 .hero { 
-    background: url(.../pic/Hero.png) 0 0 / cover no-repeat;
+    background: url(../pic/Hero.png) 0 0 / cover no-repeat;
 }
 .main-text {
     text-align: center;
