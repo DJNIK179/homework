@@ -1,0 +1,40 @@
+body {
+    background: #181818;
+    padding-bottom: 1000px;
+}
+
+.block {
+    height: 200px;
+    width: 200px;
+    background: #000;
+    position: relative;
+    left: 42vw;
+    top: 50vh;
+    border-radius: 10px;
+}
+
+.block_text {
+    text-align: center;
+    padding-top: 85px;
+    padding-bottom: 85px;
+    transition-delay: 1s;
+}
+
+.block :hover {
+    color: green;  
+}
+
+.line {
+    transform: translate(-200px, -300px);
+}
+.line_block {
+    height: 20px;
+    width: 10px;
+    background: #fff;
+    transition-duration: 1s;
+    position: absolute;                                 
+} 
+
+.block:hover .line_block {
+    width: 600px;
+}
